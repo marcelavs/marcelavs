@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💜
 
-Meu nome é Marcela Vernier Soffner
+Meu nome é **Marcela Vernier Soffner**
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,6 +10,6 @@ Meu nome é Marcela Vernier Soffner
 
   marcela10dc@gmail.com
 
-  @marcelavernier
+  **@marcelavernier**
 
 ![](https://media1.tenor.com/m/czxudFdj-gwAAAAC/disney-princess.gif)
